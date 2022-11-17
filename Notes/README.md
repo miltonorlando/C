@@ -1,4 +1,4 @@
-# About
+# Intro
 In this repository, I will share my notes and lessons that I have learned when studying the C programming Language.
 
 C was on of the first programming languages that I learned. I hope this guide helps you on your journey to become a successful programmer!
