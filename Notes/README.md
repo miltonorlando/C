@@ -10,5 +10,9 @@ C was one of the first programming languages that I learned. I hope this guide h
 
 - C has found lasting use in applications previously coded in assembly language including operating systems, as well as various application software for computers ranging from supercomputers to embedded systems.
 
-# Why Study C?
-
+# Why Do People like C?
+Programming languages don't come in a one-size-fits-all style. Here are a few justifications for why C is unbeatable and practically required for specific applications:
+- C is almost as portable as assembly language.
+- The memory used for its code is smaller than for other languages.
+- Good to use when a non-deterministic call to the garbage collector cannot be afforded.
+- Arbitrary memory address access and pointer arithmetic is an important feature that makes C a perfect fit for system programming (operating systems and embedded systems).
