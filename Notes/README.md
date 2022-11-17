@@ -1,7 +1,7 @@
 # About
 In this repository, I will share my notes and lessons that I have learned when studying the C programming Language.
 
-C was on of the first programming languages that I learned, and I hope this guide helps you on your journey to become a successful programmer!
+C was on of the first programming languages that I learned. I hope this guide helps you on your journey to become a successful programmer!
 
 # What is C 
 - C was developed as a system programming language, and even after all this time, it remains incredibly popular.
