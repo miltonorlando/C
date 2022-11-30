@@ -16,3 +16,7 @@ Programming languages don't come in a one-size-fits-all style. Here are a few ju
 - The memory used for its code is smaller than for other languages.
 - Good to use when a non-deterministic call to the garbage collector cannot be afforded.
 - Arbitrary memory address access and pointer arithmetic is an important feature that makes C a perfect fit for system programming (operating systems and embedded systems).
+
+# Table of Contents
+
+0. Getting Started with an IDE
