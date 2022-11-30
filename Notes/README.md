@@ -19,4 +19,4 @@ Programming languages don't come in a one-size-fits-all style. Here are a few ju
 
 # Table of Contents
 
-0. Getting Started with an IDE
+[0. Getting Started with an IDE](https://github.com/miltonorlando/C/blob/main/Notes/0%20Getting%20Started%20with%20an%20IDE.md)
